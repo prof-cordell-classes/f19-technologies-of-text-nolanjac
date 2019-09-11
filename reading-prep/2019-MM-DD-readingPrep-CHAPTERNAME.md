@@ -1,0 +1,10 @@
+# Reading Prep: CHAPTER NAME
+
+#### YOUR NAME
+
+## Questions or Observations
+
+1. QUESTION/OBSERVATION 1
+2. QUESTION/OBSERVATION 2
+3. QUESTION/OBSERVATION 3
+
