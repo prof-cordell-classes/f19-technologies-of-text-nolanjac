@@ -6,13 +6,13 @@
 
 This lab we set up our Git repositories and started to play with the MultiMarkdown standard, which is an easy, human-readable way to edit text with styling built in. We also set up a Github account if we did not already have one, and generally learned our way around using the website and its accompanying software which lives on the user's computer (Github desktop, or via the command line). Knowing markdown is actually a really helpful general computer skill because it is also used in a lot of chat apps like Discord or Slack.
 
-Clearly, our lab went well because this lab is written in Markdown and hosted by Github. However, I'm not going to lie, as a computer science student, I already had a Github account and generally already knew Markdown, but that doesn't mean I didn't learn new things - like the extended Markdown syntax used by places like Github, like that for making tables.
+Clearly, our lab went well because this lab is written in Markdown and hosted by Github. However, I'm not going to lie, as a computer science student, I already had a Github account and generally already knew Markdown, but that doesn't mean I didn't learn new things - like the extended Markdown syntax used by places like Github for making tables or the fact that you can also use HTML tags in a markdown file.
 
 ## Observations
 
 As I mentioned in the Process Description, I do already generally know my way around Git at this point in my CS career, but I still always find it exciting to use. I didn't download the Github desktop because I really like typing my commands into the terminal because it kind of makes you feel like an epic hacker or something - really just typing anything on the command line makes you feel that way, so you may as well use it when you can.
 
-Anyway, Markdown is a great way to style text online without having to spend too much time thinking about HTML syntax or anything like that. It is a really well-designed spec in that you can pretty much understand what the styling is without even needing to render it. Two asterisks around a word: \*HELLO\* is already a generally understood way of showing emphasis, so it just makes sense that that should result in an italic word: *HELLO*. Using HTML tags, like `<i>` and `</i>` is just so much less intuitive (I just found out you can also use HTML tags in Markdown documents while editing this because the word 'and' was in italics - neat!). A good, user-friendly spec is one that you should not have to think too much about while using it.
+Anyway, Markdown is a great way to style text online without having to spend too much time thinking about HTML syntax or anything like that. It is a really well-designed spec in that you can pretty much understand what the styling is without even needing to render it. Two asterisks around a word: \*HELLO\* is already a generally understood way of showing emphasis, so it just makes sense that that should result in an italic word: *HELLO*. Using HTML tags, like `<i>` and `</i>` is just so much less intuitive. A good, user-friendly spec is one that you should not have to think too much about while using it.
 
 ## Analysis
 
