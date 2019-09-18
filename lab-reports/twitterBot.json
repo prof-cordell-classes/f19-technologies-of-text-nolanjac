@@ -1,0 +1,10 @@
+{
+"origin": ["[personSaying:#personDoing#][personListenning:#personRecieving#][personListenning2:#personRecieving#]#lineGen#"],
+"lineGen": ["#line#,\n#line#,\n#line#.", "#line#,\n#line#.", "#line#."],
+"line": ["#personSaying.capitalize# #action# #personListenning#, and #action# #personListenning#", "[similarAction:#action#]And what #personSaying# #similarAction#, #personListenning# shall #similarAction#", "[similarBelong:#belong#]For every #object# #similarBelong#ing to #personListenning# as good #similarBelong#s to #personListenning2#"],
+"personDoing": ["I", "you"],
+"personRecieving": ["myself", "yourself", "Michael Jackson", "your roommate", "Alexander Hamilton", "my brother", "your cat", "that werido", "a balloon animal salesperson", "my mom"],
+"action": ["read", "shriek at", "party with", "annoy", "judge", "worship", "cower before", "pretend to be", "consume", "know", "absorb the powers of", "forget"],
+"object": ["cowbell", "planet", "carnival animal", "atom", "thing", "judgment", "virus", "bathroom", "investment", "poem", "twitter bot", "soul"],
+"belong": ["belong", "exist", "disappear", "storm", "appear", "occur", "rant"]
+}
