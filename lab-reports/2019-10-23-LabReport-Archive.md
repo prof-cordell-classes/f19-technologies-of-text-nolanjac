@@ -15,10 +15,10 @@ Example of an image in the text, along with a fancy drop cap:
 ![Illustration and drop cap from book printed in 1554](/images/1554Image.jpg)
 
 At the Massachusetts Historical Society, I also photographed some books, like the following Native American Primer, printed in Algonquian, Call #: E187:
-!["Indian Primer", printed in Algonquian, in around 1684](/images/NativeAmericanPrimer.jpg)
+!["Indian Primer", printed in Algonquian, in around 1684](/images/NativeAmericanPrimer.jpeg)
 
 We also saw interesting mixes of text and image in books like the following *Mother Goose in Hieroglyphics*, call #: Box 1849:
-![Mother Goose books with lots of images, printed between 1849-1851](/images/MotherGooseHeiroglyphics.jpg)
+![Mother Goose books with lots of images, printed between 1849-1851](/images/MotherGooseHeiroglyphics.jpeg)
 
 ## Observations
 
