@@ -59,10 +59,10 @@ They. Redundancies give it the deep six.
 This poetry bot can also generate poems of any form you want if you give it a correctly formated template.
 This will look like a bunch of number, string pairs, seperated only by commas.
 
-For example: a haiku looks like '5,7,5'.
+For example: a haiku looks like `5,7,5`.
 The first line has 5 syllables, the second line has 7 syllables, and the third line has 5 syllables.
 
-A rhyming couplet might look like: '5A,5B,5A,5B'.
+A rhyming couplet might look like: `5A,5B,5A,5B`.
 Each line has a length of 5, and the first and third lines will try to rhyme and the second and fourth lines will try to rhyme. This will try to generate a poem like so:
 ```
 ./poetryGen.py "5A,5B,5A,5B"
