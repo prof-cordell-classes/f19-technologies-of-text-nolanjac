@@ -418,9 +418,9 @@ class poemGenerator:
                 word = selection['infinitive'][0]
                 if not this.plural:
                     # The verb here should end in an s
-                    if [word[-1:]] == 'y':
+                    if word[-1:] == 'y':
                         word = word[:-1] + 'ies'
-                    elif [word[-1:]] == 'h':
+                    elif word[-1:] == 'h':
                         word += 'es'
                     else:
                         word += 's'
