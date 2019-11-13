@@ -1,0 +1,61 @@
+{
+    "sentence": ["#independent-clause .", "#independent-clause .", "#independent-clause .", "#independent-clause .", "#interjection"],
+    "interjection": ["oh .", "no !", "yes !", "wait !", "stop !", "noun-s !", "noun-s .", "noun-p .", "verb-r ."],
+    "independent-clause": [
+        "#initial-subject #verb #other-subject",
+        "#initial-subject #verb #other-subject",
+        "#initial-subject #verb #other-subject",
+        "#initial-subject #verb-not-is"
+    ],
+    "initial-subject": [
+        "#subject",
+        "#person-I",
+        "#phrase-verb-ing"
+    ],
+    "other-subject": [
+        "#subject",
+        "#person-me",
+        "#phrase"
+    ],
+    "subject": [
+        "the-subject",
+        "the-subject",
+        "the-subject",
+        "#determiner-phrase",
+        "#determiner-phrase",
+        "#determiner-phrase",
+        "it"
+    ],
+    "phrase": [
+        "to #verb-inf",
+        "to #verb-inf #prepositional-phrase",
+        "#phrase-verb-ing",
+        "#prepositional-phrase"
+    ],
+    "phrase-verb-ing": [
+        "#verb-ing",
+        "#verb-ing #determiner-phrase",
+        "#verb-ing #prepositional-phrase"
+    ],
+    "prepositional-phrase": [
+        "",
+        "#preposition #subject",
+        "#preposition #subject #and-or #preposition #subject"
+    ],
+    "determiner-phrase": [
+        "a-an #noun-s", "the #noun-s", 
+        "#noun-p", "the #noun-p"
+    ],
+    "noun-s": ["noun-s", "noun-s", "#adj #noun-s"],
+    "noun-p": ["noun-p", "noun-p", "#adj #noun-p"],
+    "verb": ["verb-r", "am-are-is"],
+    "verb-not-is": ["verb-r"],
+    "verb-inf": ["verb-r", "be"],
+    "verb-ing": ["verb-ing"],
+    "adj": ["adj-r"],
+    "preposition": ["about", "above", "across", "after", "against", "along", "among", "around", "at", "because of", "before", "behind", "below", "beneath", "beside", "between", "by", "close to", "down", "during", "except", "for", "from", "in", "inside", "instead of", "into", "like", "near", "of", "off", "on", "on top of", "onto", "out of", "outside", "over", "past", "since", "through", "to", "toward", "under", "until", "up", "upon", "within", "without"],
+    "and-or": ["and", "or", "but not"],
+    "person-I": ["I", "#person"],
+    "person-me": ["me", "#person"],
+    "person": ["you", "they"]
+}
