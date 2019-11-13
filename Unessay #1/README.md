@@ -23,9 +23,9 @@ All of the other sources I used while coding have also been linked in the code.
 
 This currently only exists in the command line format, which I know is a little bit annoying. I still hope to make a discord bot out of this sometime, but that will still pretty much act just like the command line, where you send a command, and then the bot replies with a poem. The benefit of that is just that you don't need to have all the source code on your computer to make it work.
 
-Simple examples:
+Usage:
 
-I have hardcoded in a couple of different poem types to make testing easier
+I have hardcoded in a couple of different poem types to make testing easier (haiku, limerick, sonnet).
 
 In order to get a random haiku do: `./poetryGen.py haiku`
 
