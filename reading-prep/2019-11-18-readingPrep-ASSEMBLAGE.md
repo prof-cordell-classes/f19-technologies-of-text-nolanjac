@@ -1,0 +1,13 @@
+# Reading Prep: Chapter 11 - Assemblage
+
+#### Jack Nolan
+
+## Questions or Observations
+
+1. Zine - The power of the zine is in its easiness and cheapness to produce. But recieving something like that, handmade and deeply personal feels amazing. It makes perfect sense that a well put together would build up quite a following, not only as a window into their being, as an object which can tell its own story, of its creator, not only in its text and images, but in its existence.
+The important thing about the Zine is not just its production, but its distribution, to friends and family and aquantences. The intimite relations of its fanbase are what give it power.
+Question about production - Did she type up all of her essays on a typewritter? If so, did she manually justify her essay into columns in the first zine by putting the correct amount of spacing between all of her words? How much planning does that take? That seems like some really impressive dedication to the craft.
+2. One thing that I find interesting about publishing a book, about printing a book, is that once it leaves your hands, it is now on its own journey through time and space, probably never to meet up with me again. For any books that I have made that I have given away, it just makes me happy to know they are out on their own lives - I don't really mind who owns them or how they got them, just that they are out there. What I find really interesting about the *Zines code of Ethics* is that this relationship doesn't really hold, often because the Zines are so personal, so wrapped up in their creators that it can be hard to seperate them. That the creator may not want a Zine to be read for privacy concerns. That the creator should have any say on who gets to read the Zine and where it should live. To me, it seems like once you have birthed a thing, it should be able to be free and go live wherever it finds itself.
+(Of course, other things like asking for permission to use some part of the Zine in your own work is extremely important, no matter what the material being used is. It being a Zine makes no difference as a copyrighted work than any other piece of intellectual property.)
+3. The idea of turning something generally considered "unpoetic" and turning it into something "poetic" by removing words makes me want to do the opposite - take something generally seen as "poetic" and find some way to make it as science textbook-ish as possible. Of course, this would be a very poetic move. Also it seems silly to me that the article on blackout poetry is not in itself a form of blackout poetry, what an opportunity missed!
+
