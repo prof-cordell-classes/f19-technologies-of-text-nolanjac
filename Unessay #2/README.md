@@ -95,11 +95,11 @@ It turns out I actually ended up doing one more day of printing. I wanted to pri
 ![Pages on the printing rack](/images/Unessay2Photos/IMG_0821.jpg)
 
 
-Videos of the printing process can be found [here](https://drive.google.com/drive/u/1/my-drive).
+Videos of the printing process can be found [here on my Google drive](https://drive.google.com/drive/folders/1L5bIlkBZEuK7Y2bO8UQg47bFEFY2tcPg?usp=sharing).
 
 ### Binding
 
-The bindind process started with cutting up all of the paper that I would need into the correct sizes.
+The binding process started with cutting up all of the paper that I would need into the correct sizes.
 ![Nicely cut paper and book boards](/images/Unessay2Photos/IMG_0815.jpg)
 
 These will be the spines.
@@ -108,6 +108,32 @@ These will be the spines.
 All of the labels nicely cut.
 ![Labels](/images/Unessay2Photos/IMG_0824.jpg)
 
+For Monday, I decided I wanted to get 8 books fully bound. So I sewed up 8 books.
+![Books sewed up](/images/Unessay2Photos/IMG_0833.jpg)
+
+The binding process then basically goes, starting with the spine, attach the spine to a strip of book cloth.
+![Spine attached to bookcloth](/images/Unessay2Photos/IMG_0835.jpg)
+
+Then, you attach boards to the ends of the bookcloth.
+![Boards attached to bookcloth](/images/Unessay2Photos/IMG_0836.jpg)
+
+Then, you attach paper to the outside of the boards.
+![Paper attached to outside of board](/images/Unessay2Photos/IMG_0834.jpg)
+
+Then, you wrap the paper around the edges of the boards. Now you basically have a flat case.
+![Paper wrapped around board](/images/Unessay2Photos/IMG_0838.jpg)
+
+![Other side of previous image](/images/Unessay2Photos/IMG_0837.jpg)
+
+![A big pile of flat case bindings ready to go](/images/Unessay2Photos/IMG_0839.jpg)
+
+Now, the exciting part happens and the text block goes in. I didn't take any pictures after this step, but all that needs to happen is that the floating endsheets are attached, and then the labels on the outside of the book are attached, and then it's done!
+![Book with textblock attached](/images/Unessay2Photos/IMG_0840.jpg)
+
+Finally, a bunch of books all get squashed under other books. Basically, they are all just standing in for book presses.
+![All of the books getting pressed over night](/images/Unessay2Photos/IMG_0841.jpg)
+
+And that's all!
 
 
 
