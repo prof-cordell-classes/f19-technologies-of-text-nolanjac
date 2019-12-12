@@ -7,7 +7,7 @@
 For this lab, our final lab of the semester, we used Twine to create interactive literature. Basically, Twine is a simple way to build choose your own adventure stories, but also allows for more complex design and basic coding to allow for more complex storytelling, or gamification.
 
 During our lab time, I managed to lay out the following storyboard, which is more of just an exploration into all of the different ways you can have the same page load different text, often just displaying random words, or revealing and hiding links based on how many times you have visited different pages.
-![My Twine adventure](images/twine.png)
+![My Twine adventure](/images/twine.png)
 
 Specifically, I explored the `<<if [proposition]>> ... <<else>> ... <<endif>>` form quite a lot in order to change the links that appeared on the page.
 In order to print a random word from a list, I would use `<<print either("thing1", "thing2", ...)>>`. 
